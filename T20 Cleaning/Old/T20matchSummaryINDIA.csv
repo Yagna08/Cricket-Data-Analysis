@@ -1,0 +1,132 @@
+Abc,Id,Team1,Team2,Winner,Margin,Date
+0,T20I no. 656,India,Sri Lanka,Sri Lanka , 5 wickets (with 9 balls remaining),06-Mar-18
+0,T20I no. 657,Bangladesh,India,India , 6 wickets (with 8 balls remaining),08-Mar-18
+0,T20I no. 659,Sri Lanka,India,India , 6 wickets (with 9 balls remaining),12-Mar-18
+0,T20I no. 660,India,Bangladesh,India , 17 runs,14-Mar-18
+0,T20I no. 662,Bangladesh,India,India , 4 wickets (with 0 balls remaining),18-Mar-18
+0,T20I no. 678,India,Ireland,India , 76 runs,27-Jun-18
+0,T20I no. 680,India,Ireland,India , 143 runs,29-Jun-18
+0,T20I no. 684,England,India,India , 8 wickets (with 10 balls remaining),03-Jul-18
+0,T20I no. 688,India,England,England , 5 wickets (with 2 balls remaining),06-Jul-18
+0,T20I no. 690,England,India,India , 7 wickets (with 8 balls remaining),08-Jul-18
+0,T20I no. 707,West Indies,India,India , 5 wickets (with 13 balls remaining),04-Nov-18
+0,T20I no. 709,India,West Indies,India , 71 runs,06-Nov-18
+0,T20I no. 710,West Indies,India,India , 6 wickets (with 0 balls remaining),11-Nov-18
+0,"T20I
+                                    no. 712",Australia,India,Australia , 4 runs (DLS method),"21
+                                  November 2018"
+0,"T20I
+                                    no. 713",Australia,-,"No
+                                    result",No result,"23
+                                  November 2018"
+0,T20I no. 714,Australia,India,India , 6 wickets (with 2 balls remaining),25-Nov-18
+0,T20I no. 735,New Zealand,India,New Zealand , 80 runs,06-Feb-19
+0,T20I no. 737,New Zealand,India,India , 7 wickets (with 7 balls remaining),08-Feb-19
+0,T20I no. 738,New Zealand,India,New Zealand , 4 runs,10-Feb-19
+0,T20I no. 748,India,Australia,Australia , 3 wickets (with 0 balls remaining),24-Feb-19
+0,T20I no. 749,India,Australia,Australia , 7 wickets (with 2 balls remaining),27-Feb-19
+0,T20I no. 842,West Indies,India,India , 4 wickets (with 16 balls remaining),03-Aug-19
+0,T20I no. 843,India,West Indies,India , 22 runs (DLS method),04-Aug-19
+0,T20I no. 846,West Indies,India,India , 7 wickets (with 5 balls remaining),06-Aug-19
+0,T20I no. 000883b,-,-,Match abandoned without a ball bowled,No result,15-Sep-19
+0,T20I no. 888,South Africa,India,India , 7 wickets (with 6 balls remaining),18-Sep-19
+0,T20I no. 893,India,South Africa,South Africa , 9 wickets (with 19 balls remaining),22-Sep-19
+0,T20I no. 1000,India,Bangladesh,Bangladesh , 7 wickets (with 3 balls remaining),03-Nov-19
+0,T20I no. 1007,Bangladesh,India,India , 8 wickets (with 26 balls remaining),07-Nov-19
+0,T20I no. 1014,India,Bangladesh,India , 30 runs,10-Nov-19
+0,T20I no. 1020,West Indies,India,India , 6 wickets (with 8 balls remaining),06-Dec-19
+0,T20I no. 1022,India,West Indies,West Indies , 8 wickets (with 9 balls remaining),08-Dec-19
+0,T20I no. 1024,India,West Indies,India , 67 runs,11-Dec-19
+0,T20I no. 1025,-,-,No result (abandoned with a toss),No result,05-Jan-20
+0,T20I no. 1026,Sri Lanka,India,India , 7 wickets (with 15 balls remaining),07-Jan-20
+0,T20I no. 1027,India,Sri Lanka,India , 78 runs,10-Jan-20
+0,T20I no. 1031,New Zealand,India,India , 6 wickets (with 6 balls remaining),24-Jan-20
+0,T20I no. 1034,New Zealand,India,India , 7 wickets (with 15 balls remaining),26-Jan-20
+0,T20I no. 1035,India,New Zealand,Match tied (India ,No result,29-Jan-20
+0,T20I no. 1036,India,New Zealand,Match tied (India ,No result,31-Jan-20
+0,T20I no. 1037,India,New Zealand,India , 7 runs,02-Feb-20
+0,T20I no. 1114,India,Australia,India , 11 runs,04-Dec-20
+0,T20I no. 1115,Australia,India,India , 6 wickets (with 2 balls remaining),06-Dec-20
+0,T20I no. 1116,Australia,India,Australia , 12 runs,08-Dec-20
+0,T20I no. 1131,India,England,England , 8 wickets (with 27 balls remaining),12-Mar-21
+0,T20I no. 1132,England,India,India , 7 wickets (with 13 balls remaining),14-Mar-21
+0,T20I no. 1133,India,England,England , 8 wickets (with 10 balls remaining),16-Mar-21
+0,T20I no. 1135,India,England,India , 8 runs,18-Mar-21
+0,T20I no. 1138,India,England,India , 36 runs,20-Mar-21
+0,T20I no. 1204,India,Sri Lanka,India , 38 runs,25-Jul-21
+0,"T20I
+                                    no. 1206",India,Sri Lanka,Sri Lanka , 4 wickets (with 2 balls remaining),"28
+                                  July 2021"
+0,T20I no. 1207,India,Sri Lanka,Sri Lanka , 7 wickets (with 33 balls remaining),29-Jul-21
+0,T20I no. 1361,India,Pakistan,Pakistan , 10 wickets (with 13 balls remaining),24-Oct-21
+0,T20I no. 1381,India,New Zealand,New Zealand , 8 wickets (with 33 balls remaining),31-Oct-21
+0,"T20I
+                                    no. 1390",India,Afghanistan,India ,"
+                                    66 runs","3
+                                  November 2021"
+0,T20I no. 1396,Scotland,India,India , 8 wickets (with 81 balls remaining),05-Nov-21
+0,T20I no. 1410,Namibia,India,India , 9 wickets (with 28 balls remaining),08-Nov-21
+0,T20I no. 1434,New Zealand,India,India , 5 wickets (with 2 balls remaining),17-Nov-21
+0,T20I no. 1440,New Zealand,India,India , 7 wickets (with 16 balls remaining),19-Nov-21
+0,T20I no. 1446,India,New Zealand,India , 73 runs,21-Nov-21
+0,T20I no. 1467,West Indies,India,India , 6 wickets (with 7 balls remaining),16-Feb-22
+0,T20I no. 1473,India,West Indies,India , 8 runs,18-Feb-22
+0,T20I no. 1479,India,West Indies,India , 17 runs,20-Feb-22
+0,T20I no. 1492,India,Sri Lanka,India , 62 runs,24-Feb-22
+0,T20I no. 1493,Sri Lanka,India,India , 7 wickets (with 17 balls remaining),26-Feb-22
+0,T20I no. 1494,Sri Lanka,India,India , 6 wickets (with 19 balls remaining),27-Feb-22
+0,T20I no. 1554,India,South Africa,South Africa , 7 wickets (with 5 balls remaining),09-Jun-22
+0,T20I no. 1569,India,South Africa,South Africa , 4 wickets (with 10 balls remaining),12-Jun-22
+0,T20I no. 1571,India,South Africa,India , 48 runs,14-Jun-22
+0,T20I no. 1572,India,South Africa,India , 82 runs,17-Jun-22
+0,T20I no. 1575,India,-,No result,No result,19-Jun-22
+0,T20I no. 1580,Ireland,India,India , 7 wickets (with 16 balls remaining),26-Jun-22
+0,T20I no. 1586,India,Ireland,India , 4 runs,28-Jun-22
+0,T20I no. 1616,India,England,India , 50 runs,07-Jul-22
+0,T20I no. 1628,India,England,India , 49 runs,09-Jul-22
+0,T20I no. 1631,England,India,England , 17 runs,10-Jul-22
+0,T20I no. 1702,India,West Indies,India , 68 runs,29-Jul-22
+0,T20I no. 1718,India,West Indies,West Indies , 5 wickets (with 4 balls remaining),01-Aug-22
+0,T20I no. 1720,West Indies,India,India , 7 wickets (with 6 balls remaining),02-Aug-22
+0,T20I no. 1725,India,West Indies,India , 59 runs,06-Aug-22
+0,T20I no. 1726,India,West Indies,India , 88 runs,07-Aug-22
+0,T20I no. 1750,Pakistan,India,India , 5 wickets (with 2 balls remaining),28-Aug-22
+0,T20I no. 1754,India,Hong Kong,India , 40 runs,31-Aug-22
+0,T20I no. 1758,India,Pakistan,Pakistan , 5 wickets (with 1 ball remaining),04-Sep-22
+0,T20I no. 1759,India,Sri Lanka,Sri Lanka , 6 wickets (with 1 ball remaining),06-Sep-22
+0,"T20I
+                                    no. 1761",India,Afghanistan,India ,"
+                                    101 runs","08
+                                  September 2022"
+0,T20I no. 1788,India,Australia,Australia , 4 wickets (with 4 balls remaining),20-Sep-22
+0,T20I no. 1794,Australia,India,India , 6 wickets (with 4 balls remaining),23-Sep-22
+0,T20I no. 1796,Australia,India,India , 6 wickets (with 1 ball remaining),25-Sep-22
+0,T20I no. 1800,South Africa,India,India , 8 wickets (with 20 balls remaining),28-Sep-22
+0,T20I no. 1803,India,South Africa,India , 16 runs,02-Oct-22
+0,T20I no. 1805,South Africa,India,South Africa , 49 runs,04-Oct-22
+0,T20I no. 1842,Pakistan,India,India , 4 wickets (with 0 balls remaining),23-Oct-22
+0,T20I no. 1848,India,Netherlands,India , 56 runs,27-Oct-22
+0,T20I no. 1853,India,South Africa,South Africa , 5 wickets (with 2 balls remaining),30-Oct-22
+0,T20I no. 1860,India,Bangladesh,India , 5 runs (DLS method),02-Nov-22
+0,T20I no. 1873,India,Zimbabwe,India , 71 runs,06-Nov-22
+0,T20I no. 1878,India,England,England , 10 wickets (with 24 balls remaining),10-Nov-22
+0,T20I no. 001891a,-,-,Match abandoned without a ball bowled,No result,18-Nov-22
+0,T20I no. 1898,India,New Zealand,India , 65 runs,20-Nov-22
+0,T20I no. 1911,New Zealand,India,Match tied (DLS method),No result,22-Nov-22
+0,T20I no. 1984,India,Sri Lanka,India , 2 runs,03-Jan-23
+0,T20I no. 1985,Sri Lanka,India,Sri Lanka , 16 runs,05-Jan-23
+0,T20I no. 1986,India,Sri Lanka,India , 91 runs,07-Jan-23
+0,T20I no. 1990,New Zealand,India,New Zealand , 21 runs,27-Jan-23
+0,T20I no. 1991,New Zealand,India,India , 6 wickets (with 1 ball remaining),29-Jan-23
+0,T20I no. 1992,India,New Zealand,India , 168 runs,01-Feb-23
+0,T20I no. 2188,West Indies,India,West Indies , 4 runs,03-Aug-23
+0,T20I no. 2191,India,West Indies,West Indies , 2 wickets (with 7 balls remaining),06-Aug-23
+0,T20I no. 2192,West Indies,India,India , 7 wickets (with 13 balls remaining),08-Aug-23
+0,T20I no. 2193,West Indies,India,India , 9 wickets (with 18 balls remaining),12-Aug-23
+0,T20I no. 2194,India,West Indies,West Indies , 8 wickets (with 12 balls remaining),13-Aug-23
+0,"T20I
+                                    no. 2200",Ireland,India,India ," 2
+                                    runs (DLS method)","18
+                                  August 2023"
+0,T20I no. 2208,India,Ireland,India , 33 runs,20-Aug-23
+0,T20I no. 002213a,-,-,Match abandoned without a ball bowled,No result,23-Aug-23

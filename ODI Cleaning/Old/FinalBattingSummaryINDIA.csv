@@ -1,0 +1,590 @@
+Abc,Match,Name,Out/NotOut,Runs,Balls,4s,6s,SR,MatchId
+0,india vs south africa,"Shikhar
+                                        Dhawan",Out,8,12,1,0,66.66,"ODI
+                                    no. 4150"
+1,india vs south africa,"Rohit
+                                        Sharma",Not Out,122,144,13,2,84.72,"ODI
+                                    no. 4150"
+2,india vs south africa,"Virat
+                                        Kohli (c)",Out,18,34,1,0,52.94,"ODI
+                                    no. 4150"
+3,india vs south africa,"KL
+                                        Rahul",Out,26,42,2,0,61.90,"ODI
+                                    no. 4150"
+4,india vs south africa,"MS
+                                        Dhoni �",Out,34,46,2,0,73.91,"ODI
+                                    no. 4150"
+5,india vs south africa,"Hardik
+                                        Pandya",Not Out,15,7,3,0,214.28,"ODI
+                                    no. 4150"
+0,australia vs india,Rohit Sharma,Out,57,70,3,1,81.42,ODI no. 4155
+1,australia vs india,Shikhar Dhawan,Out,117,109,16,0,107.33,ODI no. 4155
+2,australia vs india,Virat Kohli (c),Out,82,77,4,2,106.49,ODI no. 4155
+3,australia vs india,Hardik Pandya,Out,48,27,4,3,177.77,ODI no. 4155
+4,australia vs india,MS Dhoni,Out,27,14,3,1,192.85,ODI no. 4155
+5,australia vs india,KL Rahul,Not Out,11,3,1,1,366.66,ODI no. 4155
+6,australia vs india,Kedar Jadhav,Not Out,0,0,0,0,-,ODI no. 4155
+0,india vs pakistan,KL Rahul,Out,57,78,3,2,73.07,ODI no. 4161
+1,india vs pakistan,Rohit Sharma,Out,140,113,14,3,123.89,ODI no. 4161
+2,india vs pakistan,Virat Kohli (c),Out,77,65,7,0,118.46,ODI no. 4161
+3,india vs pakistan,Hardik Pandya,Out,26,19,2,1,136.84,ODI no. 4161
+4,india vs pakistan,MS Dhoni,Out,1,2,0,0,50.00,ODI no. 4161
+5,india vs pakistan,Vijay Shankar,Not Out,15,15,1,0,100.00,ODI no. 4161
+6,india vs pakistan,Kedar Jadhav,Not Out,9,8,1,0,112.50,ODI no. 4161
+0,afghanistan vs india,"KL
+                                        Rahul",Out,30,53,2,0,56.60,"ODI
+                                    no. 4169"
+1,afghanistan vs india,"Rohit
+                                        Sharma",Out,1,10,0,0,10.00,"ODI
+                                    no. 4169"
+2,afghanistan vs india,"Virat
+                                        Kohli (c)",Out,67,63,5,0,106.34,"ODI
+                                    no. 4169"
+3,afghanistan vs india,"Vijay
+                                        Shankar",Out,29,41,2,0,70.73,"ODI
+                                    no. 4169"
+4,afghanistan vs india,"MS
+                                        Dhoni �",Out,28,52,3,0,53.84,"ODI
+                                    no. 4169"
+5,afghanistan vs india,"Kedar
+                                        Jadhav",Out,52,68,3,1,76.47,"ODI
+                                    no. 4169"
+6,afghanistan vs india,"Hardik
+                                        Pandya",Out,7,9,0,0,77.77,"ODI
+                                    no. 4169"
+7,afghanistan vs india,"Mohammed
+                                        Shami",Out,1,2,0,0,50.00,"ODI
+                                    no. 4169"
+8,afghanistan vs india,"Kuldeep
+                                        Yadav",Not Out,1,1,0,0,100.00,"ODI
+                                    no. 4169"
+9,afghanistan vs india,"Jasprit
+                                        Bumrah",Not Out,1,1,0,0,100.00,"ODI
+                                    no. 4169"
+0,india vs west indies,KL Rahul,Out,48,64,6,0,75.00,ODI no. 4175
+1,india vs west indies,Rohit Sharma,Out,18,23,1,1,78.26,ODI no. 4175
+2,india vs west indies,Virat Kohli (c),Out,72,82,8,0,87.80,ODI no. 4175
+3,india vs west indies,Vijay Shankar,Out,14,19,3,0,73.68,ODI no. 4175
+4,india vs west indies,Kedar Jadhav,Out,7,10,1,0,70.00,ODI no. 4175
+5,india vs west indies,MS Dhoni,Not Out,56,61,3,2,91.80,ODI no. 4175
+6,india vs west indies,Hardik Pandya,Out,46,38,5,0,121.05,ODI no. 4175
+7,india vs west indies,Mohammed Shami,Out,0,2,0,0,0.00,ODI no. 4175
+8,india vs west indies,Kuldeep Yadav,Not Out,0,1,0,0,0.00,ODI no. 4175
+0,england vs india,KL Rahul,Out,0,9,0,0,0.00,ODI no. 4179
+1,england vs india,Rohit Sharma,Out,102,109,15,0,93.57,ODI no. 4179
+2,england vs india,Virat Kohli (c),Out,66,76,7,0,86.84,ODI no. 4179
+3,england vs india,Rishabh Pant,Out,32,29,4,0,110.34,ODI no. 4179
+4,england vs india,Hardik Pandya,Out,45,33,4,0,136.36,ODI no. 4179
+5,england vs india,MS Dhoni,Not Out,42,31,4,1,135.48,ODI no. 4179
+6,england vs india,Kedar Jadhav,Not Out,12,13,1,0,92.30,ODI no. 4179
+0,bangladesh vs india,KL Rahul,Out,77,92,6,1,83.69,ODI no. 4182
+1,bangladesh vs india,Rohit Sharma,Out,104,92,7,5,113.04,ODI no. 4182
+2,bangladesh vs india,Virat Kohli (c),Out,26,27,3,0,96.29,ODI no. 4182
+3,bangladesh vs india,Rishabh Pant,Out,48,41,6,1,117.07,ODI no. 4182
+4,bangladesh vs india,Hardik Pandya,Out,0,2,0,0,0.00,ODI no. 4182
+5,bangladesh vs india,MS Dhoni,Out,35,33,4,0,106.06,ODI no. 4182
+6,bangladesh vs india,Dinesh Karthik,Out,8,9,1,0,88.88,ODI no. 4182
+7,bangladesh vs india,Bhuvneshwar Kumar,Out,2,3,0,0,66.66,ODI no. 4182
+8,bangladesh vs india,Mohammed Shami,Out,1,2,0,0,50.00,ODI no. 4182
+9,bangladesh vs india,Jasprit Bumrah,Not Out,0,0,0,0,-,ODI no. 4182
+0,india vs sri lanka,KL Rahul,Out,111,118,11,1,94.06,ODI no. 4187
+1,india vs sri lanka,Rohit Sharma,Out,103,94,14,2,109.57,ODI no. 4187
+2,india vs sri lanka,Virat Kohli (c),Not Out,34,41,3,0,82.92,ODI no. 4187
+3,india vs sri lanka,Rishabh Pant,Out,4,4,1,0,100.00,ODI no. 4187
+4,india vs sri lanka,Hardik Pandya,Not Out,7,4,1,0,175.00,ODI no. 4187
+0,india vs new zealand 1st,KL Rahul,Out,1,7,0,0,14.28,ODI no. 4190
+1,india vs new zealand 1st,Rohit Sharma,Out,1,4,0,0,25.00,ODI no. 4190
+2,india vs new zealand 1st,Virat Kohli (c),Out,1,6,0,0,16.66,ODI no. 4190
+3,india vs new zealand 1st,Rishabh Pant,Out,32,56,4,0,57.14,ODI no. 4190
+4,india vs new zealand 1st,Dinesh Karthik,Out,6,25,1,0,24.00,ODI no. 4190
+5,india vs new zealand 1st,Hardik Pandya,Out,32,62,2,0,51.61,ODI no. 4190
+6,india vs new zealand 1st,MS Dhoni,Out,50,72,1,1,69.44,ODI no. 4190
+7,india vs new zealand 1st,Ravindra Jadeja,Out,77,59,4,4,130.50,ODI no. 4190
+8,india vs new zealand 1st,Bhuvneshwar Kumar,Out,0,1,0,0,0.00,ODI no. 4190
+9,india vs new zealand 1st,Yuzvendra Chahal,Out,5,5,1,0,100.00,ODI no. 4190
+10,india vs new zealand 1st,Jasprit Bumrah,Not Out,0,0,0,0,-,ODI no. 4190
+0,west indies vs india,Shikhar Dhawan,Out,2,3,0,0,66.66,ODI no. 4197
+1,west indies vs india,Rohit Sharma,Out,18,34,2,0,52.94,ODI no. 4197
+2,west indies vs india,Virat Kohli (c),Out,120,125,14,1,96.00,ODI no. 4197
+3,west indies vs india,Rishabh Pant,Out,20,35,2,0,57.14,ODI no. 4197
+4,west indies vs india,Shreyas Iyer,Out,71,68,5,1,104.41,ODI no. 4197
+5,west indies vs india,Kedar Jadhav,Out,16,14,2,0,114.28,ODI no. 4197
+6,west indies vs india,Ravindra Jadeja,Not Out,16,16,1,0,100.00,ODI no. 4197
+7,west indies vs india,Bhuvneshwar Kumar,Out,1,2,0,0,50.00,ODI no. 4197
+8,west indies vs india,Mohammed Shami,Not Out,3,5,0,0,60.00,ODI no. 4197
+0,west indies vs india,Rohit Sharma,Out,10,6,2,0,166.66,ODI no. 4199
+1,west indies vs india,Shikhar Dhawan,Out,36,36,5,0,100.00,ODI no. 4199
+2,west indies vs india,Virat Kohli (c),Not Out,114,99,14,0,115.15,ODI no. 4199
+3,west indies vs india,Rishabh Pant,Out,0,1,0,0,0.00,ODI no. 4199
+4,west indies vs india,Shreyas Iyer,Out,65,41,3,5,158.53,ODI no. 4199
+5,west indies vs india,Kedar Jadhav,Not Out,19,12,1,1,158.33,ODI no. 4199
+0,india vs west indies,Rohit Sharma,Out,36,56,6,0,64.28,ODI no. 4221
+1,india vs west indies,KL Rahul,Out,6,15,1,0,40.00,ODI no. 4221
+2,india vs west indies,Virat Kohli (c),Out,4,4,1,0,100.00,ODI no. 4221
+3,india vs west indies,Shreyas Iyer,Out,70,88,5,1,79.54,ODI no. 4221
+4,india vs west indies,Rishabh Pant,Out,71,69,7,1,102.89,ODI no. 4221
+5,india vs west indies,Kedar Jadhav,Out,40,35,3,1,114.28,ODI no. 4221
+6,india vs west indies,Ravindra Jadeja,Out,21,21,2,0,100.00,ODI no. 4221
+7,india vs west indies,Shivam Dube,Out,9,6,1,0,150.00,ODI no. 4221
+8,india vs west indies,Deepak Chahar,Not Out,6,8,0,0,75.00,ODI no. 4221
+9,india vs west indies,Mohammed Shami,Not Out,0,1,0,0,0.00,ODI no. 4221
+0,india vs west indies,Rohit Sharma,Out,159,138,17,5,115.21,ODI no. 4222
+1,india vs west indies,KL Rahul,Out,102,104,8,3,98.07,ODI no. 4222
+2,india vs west indies,Virat Kohli (c),Out,0,1,0,0,0.00,ODI no. 4222
+3,india vs west indies,Shreyas Iyer,Out,53,32,3,4,165.62,ODI no. 4222
+4,india vs west indies,Rishabh Pant,Out,39,16,3,4,243.75,ODI no. 4222
+5,india vs west indies,Kedar Jadhav,Not Out,16,10,3,0,160.00,ODI no. 4222
+6,india vs west indies,Ravindra Jadeja,Not Out,0,0,0,0,-,ODI no. 4222
+0,india vs west indies,Rohit Sharma,Out,63,63,8,1,100.00,ODI no. 4223
+1,india vs west indies,KL Rahul,Out,77,89,8,1,86.51,ODI no. 4223
+2,india vs west indies,Virat Kohli (c),Out,85,81,9,0,104.93,ODI no. 4223
+3,india vs west indies,Shreyas Iyer,Out,7,7,1,0,100.00,ODI no. 4223
+4,india vs west indies,Rishabh Pant,Out,7,6,1,0,116.66,ODI no. 4223
+5,india vs west indies,Kedar Jadhav,Out,9,10,1,0,90.00,ODI no. 4223
+6,india vs west indies,Ravindra Jadeja,Not Out,39,31,4,0,125.80,ODI no. 4223
+7,india vs west indies,Shardul Thakur,Not Out,17,6,2,1,283.33,ODI no. 4223
+0,india vs australia,Rohit Sharma,Out,10,15,2,0,66.66,ODI no. 4231
+1,india vs australia,Shikhar Dhawan,Out,74,91,9,1,81.31,ODI no. 4231
+2,india vs australia,KL Rahul,Out,47,61,4,0,77.04,ODI no. 4231
+3,india vs australia,Virat Kohli (c),Out,16,14,0,1,114.28,ODI no. 4231
+4,india vs australia,Shreyas Iyer,Out,4,9,0,0,44.44,ODI no. 4231
+5,india vs australia,Rishabh Pant,Out,28,33,2,1,84.84,ODI no. 4231
+6,india vs australia,Ravindra Jadeja,Out,25,32,2,1,78.12,ODI no. 4231
+7,india vs australia,Shardul Thakur,Out,13,10,2,0,130.00,ODI no. 4231
+8,india vs australia,Mohammed Shami,Out,10,15,1,0,66.66,ODI no. 4231
+9,india vs australia,Kuldeep Yadav,Out,17,15,2,0,113.33,ODI no. 4231
+10,india vs australia,Jasprit Bumrah,Not Out,0,0,0,0,-,ODI no. 4231
+0,india vs australia,Rohit Sharma,Out,42,44,6,0,95.45,ODI no. 4232
+1,india vs australia,Shikhar Dhawan,Out,96,90,13,1,106.66,ODI no. 4232
+2,india vs australia,Virat Kohli (c),Out,78,76,6,0,102.63,ODI no. 4232
+3,india vs australia,Shreyas Iyer,Out,7,17,1,0,41.17,ODI no. 4232
+4,india vs australia,KL Rahul,Out,80,52,6,3,153.84,ODI no. 4232
+5,india vs australia,Manish Pandey,Out,2,4,0,0,50.00,ODI no. 4232
+6,india vs australia,Ravindra Jadeja,Not Out,20,16,1,0,125.00,ODI no. 4232
+7,india vs australia,Mohammed Shami,Not Out,1,1,0,0,100.00,ODI no. 4232
+0,india vs australia,Rohit Sharma,Out,119,128,8,6,92.96,ODI no. 4233
+1,india vs australia,KL Rahul,Out,19,27,2,0,70.37,ODI no. 4233
+2,india vs australia,Virat Kohli (c),Out,89,91,8,0,97.80,ODI no. 4233
+3,india vs australia,Shreyas Iyer,Not Out,44,35,6,1,125.71,ODI no. 4233
+4,india vs australia,Manish Pandey,Not Out,8,4,2,0,200.00,ODI no. 4233
+0,new zealand vs india,Prithvi Shaw,Out,20,21,3,0,95.23,ODI no. 4235
+1,new zealand vs india,Mayank Agarwal,Out,32,31,6,0,103.22,ODI no. 4235
+2,new zealand vs india,Virat Kohli (c),Out,51,63,6,0,80.95,ODI no. 4235
+3,new zealand vs india,Shreyas Iyer,Out,103,107,11,1,96.26,ODI no. 4235
+4,new zealand vs india,KL Rahul,Not Out,88,64,3,6,137.50,ODI no. 4235
+5,new zealand vs india,Kedar Jadhav,Not Out,26,15,3,1,173.33,ODI no. 4235
+0,new zealand vs india,Prithvi Shaw,Out,24,19,6,0,126.31,ODI no. 4239
+1,new zealand vs india,Mayank Agarwal,Out,3,5,0,0,60.00,ODI no. 4239
+2,new zealand vs india,Virat Kohli (c),Out,15,25,1,0,60.00,ODI no. 4239
+3,new zealand vs india,Shreyas Iyer,Out,52,57,7,1,91.22,ODI no. 4239
+4,new zealand vs india,KL Rahul,Out,4,8,0,0,50.00,ODI no. 4239
+5,new zealand vs india,Kedar Jadhav,Out,9,27,1,0,33.33,ODI no. 4239
+6,new zealand vs india,Ravindra Jadeja,Out,55,73,2,1,75.34,ODI no. 4239
+7,new zealand vs india,Shardul Thakur,Out,18,15,3,0,120.00,ODI no. 4239
+8,new zealand vs india,Navdeep Saini,Out,45,49,5,2,91.83,ODI no. 4239
+9,new zealand vs india,Yuzvendra Chahal,Out,10,12,1,0,83.33,ODI no. 4239
+10,new zealand vs india,Jasprit Bumrah,Not Out,0,1,0,0,0.00,ODI no. 4239
+0,new zealand vs india,Prithvi Shaw,Out,40,42,3,2,95.23,ODI no. 4243
+1,new zealand vs india,Mayank Agarwal,Out,1,3,0,0,33.33,ODI no. 4243
+2,new zealand vs india,Virat Kohli (c),Out,9,12,0,1,75.00,ODI no. 4243
+3,new zealand vs india,Shreyas Iyer,Out,62,63,9,0,98.41,ODI no. 4243
+4,new zealand vs india,KL Rahul,Out,112,113,9,2,99.11,ODI no. 4243
+5,new zealand vs india,Manish Pandey,Out,42,48,2,0,87.50,ODI no. 4243
+6,new zealand vs india,Ravindra Jadeja,Not Out,8,7,1,0,114.28,ODI no. 4243
+7,new zealand vs india,Shardul Thakur,Out,7,6,1,0,116.66,ODI no. 4243
+8,new zealand vs india,Navdeep Saini,Not Out,8,6,2,0,133.33,ODI no. 4243
+0,australia vs india,Mayank Agarwal,Out,22,18,2,1,122.22,ODI no. 4265
+1,australia vs india,Shikhar Dhawan,Out,74,86,10,0,86.04,ODI no. 4265
+2,australia vs india,Virat Kohli (c),Out,21,21,2,1,100.00,ODI no. 4265
+3,australia vs india,Shreyas Iyer,Out,2,2,0,0,100.00,ODI no. 4265
+4,australia vs india,KL Rahul,Out,12,15,1,0,80.00,ODI no. 4265
+5,australia vs india,Hardik Pandya,Out,90,76,7,4,118.42,ODI no. 4265
+6,australia vs india,Ravindra Jadeja,Out,25,37,0,1,67.56,ODI no. 4265
+7,australia vs india,Navdeep Saini,Not Out,29,35,1,1,82.85,ODI no. 4265
+8,australia vs india,Mohammed Shami,Out,13,10,1,1,130.00,ODI no. 4265
+9,australia vs india,Jasprit Bumrah,Not Out,0,3,0,0,0.00,ODI no. 4265
+0,australia vs india,Mayank Agarwal,Out,28,26,4,0,107.69,ODI no. 4266
+1,australia vs india,Shikhar Dhawan,Out,30,23,5,0,130.43,ODI no. 4266
+2,australia vs india,Virat Kohli (c),Out,89,87,7,2,102.29,ODI no. 4266
+3,australia vs india,Shreyas Iyer,Out,38,36,5,0,105.55,ODI no. 4266
+4,australia vs india,KL Rahul,Out,76,66,4,5,115.15,ODI no. 4266
+5,australia vs india,Hardik Pandya,Out,28,31,1,1,90.32,ODI no. 4266
+6,australia vs india,Ravindra Jadeja,Out,24,11,1,2,218.18,ODI no. 4266
+7,australia vs india,Navdeep Saini,Not Out,10,10,1,0,100.00,ODI no. 4266
+8,australia vs india,Mohammed Shami,Out,1,4,0,0,25.00,ODI no. 4266
+9,australia vs india,Jasprit Bumrah,Out,0,2,0,0,0.00,ODI no. 4266
+10,australia vs india,Yuzvendra Chahal,Not Out,4,6,0,0,66.66,ODI no. 4266
+0,australia vs india,Shikhar Dhawan,Out,16,27,2,0,59.25,ODI no. 4267
+1,australia vs india,Shubman Gill,Out,33,39,3,1,84.61,ODI no. 4267
+2,australia vs india,Virat Kohli (c),Out,63,78,5,0,80.76,ODI no. 4267
+3,australia vs india,Shreyas Iyer,Out,19,21,2,0,90.47,ODI no. 4267
+4,australia vs india,KL Rahul,Out,5,11,0,0,45.45,ODI no. 4267
+5,australia vs india,Hardik Pandya,Not Out,92,76,7,1,121.05,ODI no. 4267
+6,australia vs india,Ravindra Jadeja,Not Out,66,50,5,3,132.00,ODI no. 4267
+0,india vs england,Rohit Sharma,Out,28,42,4,0,66.66,ODI no. 4281
+1,india vs england,Shikhar Dhawan,Out,98,106,11,2,92.45,ODI no. 4281
+2,india vs england,Virat Kohli (c),Out,56,60,6,0,93.33,ODI no. 4281
+3,india vs england,Shreyas Iyer,Out,6,9,1,0,66.66,ODI no. 4281
+4,india vs england,KL Rahul,Not Out,62,43,4,4,144.18,ODI no. 4281
+5,india vs england,Hardik Pandya,Out,1,9,0,0,11.11,ODI no. 4281
+6,india vs england,Krunal Pandya,Not Out,58,31,7,2,187.09,ODI no. 4281
+0,india vs england,Rohit Sharma,Out,25,25,5,0,100.00,ODI no. 4283
+1,india vs england,Shikhar Dhawan,Out,4,17,0,0,23.52,ODI no. 4283
+2,india vs england,Virat Kohli (c),Out,66,79,3,1,83.54,ODI no. 4283
+3,india vs england,KL Rahul,Out,108,114,7,2,94.73,ODI no. 4283
+4,india vs england,Rishabh Pant,Out,77,40,3,7,192.50,ODI no. 4283
+5,india vs england,Hardik Pandya,Out,35,16,1,4,218.75,ODI no. 4283
+6,india vs england,Krunal Pandya,Not Out,12,9,1,0,133.33,ODI no. 4283
+7,india vs england,Shardul Thakur,Not Out,0,0,0,0,-,ODI no. 4283
+0,india vs england,Rohit Sharma,Out,37,37,6,0,100.00,ODI no. 4284
+1,india vs england,Shikhar Dhawan,Out,67,56,10,0,119.64,ODI no. 4284
+2,india vs england,Virat Kohli (c),Out,7,10,1,0,70.00,ODI no. 4284
+3,india vs england,Rishabh Pant,Out,78,62,5,4,125.80,ODI no. 4284
+4,india vs england,KL Rahul,Out,7,18,0,0,38.88,ODI no. 4284
+5,india vs england,Hardik Pandya,Out,64,44,5,4,145.45,ODI no. 4284
+6,india vs england,Krunal Pandya,Out,25,34,0,0,73.52,ODI no. 4284
+7,india vs england,Shardul Thakur,Out,30,21,1,3,142.85,ODI no. 4284
+8,india vs england,Bhuvneshwar Kumar,Out,3,5,0,0,60.00,ODI no. 4284
+9,india vs england,Prasidh Krishna,Out,0,3,0,0,0.00,ODI no. 4284
+10,india vs england,T Natarajan,Not Out,0,0,0,0,-,ODI no. 4284
+0,sri lanka vs india,Prithvi Shaw,Out,43,24,9,0,179.16,ODI no. 4307
+1,sri lanka vs india,Shikhar Dhawan (c),Not Out,86,95,6,1,90.52,ODI no. 4307
+2,sri lanka vs india,Ishan Kishan †,Out,59,42,8,2,140.47,ODI no. 4307
+3,sri lanka vs india,Manish Pandey,Out,26,40,1,1,65.00,ODI no. 4307
+4,sri lanka vs india,Suryakumar Yadav,Not Out,31,20,5,0,155.00,ODI no. 4307
+0,sri lanka vs india,Prithvi Shaw,Out,13,11,3,0,118.18,ODI no. 4309
+1,sri lanka vs india,Shikhar Dhawan (c),Out,29,38,6,0,76.31,ODI no. 4309
+2,sri lanka vs india,Ishan Kishan,Out,1,4,0,0,25.00,ODI no. 4309
+3,sri lanka vs india,Manish Pandey,Out,37,31,3,0,119.35,ODI no. 4309
+4,sri lanka vs india,Suryakumar Yadav,Out,53,44,6,0,120.45,ODI no. 4309
+5,sri lanka vs india,Hardik Pandya,Out,0,3,0,0,0.00,ODI no. 4309
+6,sri lanka vs india,Krunal Pandya,Out,35,54,3,0,64.81,ODI no. 4309
+7,sri lanka vs india,Deepak Chahar,Not Out,69,82,7,1,84.14,ODI no. 4309
+8,sri lanka vs india,Bhuvneshwar Kumar,Not Out,19,28,2,0,67.85,ODI no. 4309
+0,sri lanka vs india,Prithvi Shaw,Out,49,49,8,0,100.00,ODI no. 4312
+1,sri lanka vs india,Shikhar Dhawan (c),Out,13,11,3,0,118.18,ODI no. 4312
+2,sri lanka vs india,Sanju Samson,Out,46,46,5,1,100.00,ODI no. 4312
+3,sri lanka vs india,Manish Pandey,Out,11,19,0,0,57.89,ODI no. 4312
+4,sri lanka vs india,Suryakumar Yadav,Out,40,37,7,0,108.10,ODI no. 4312
+5,sri lanka vs india,Hardik Pandya,Out,19,17,3,0,111.76,ODI no. 4312
+6,sri lanka vs india,Nitish Rana,Out,7,14,0,0,50.00,ODI no. 4312
+7,sri lanka vs india,Krishnappa Gowtham,Out,2,3,0,0,66.66,ODI no. 4312
+8,sri lanka vs india,Rahul Chahar,Out,13,25,0,0,52.00,ODI no. 4312
+9,sri lanka vs india,Navdeep Saini,Out,15,37,0,0,40.54,ODI no. 4312
+10,sri lanka vs india,Chetan Sakariya,Not Out,0,1,0,0,0.00,ODI no. 4312
+0,south africa vs india,"KL
+                                        Rahul (c)",Out,12,17,0,0,70.58,"ODI
+                                    no. 4344"
+1,south africa vs india,"Shikhar
+                                        Dhawan",Out,79,84,10,0,94.04,"ODI
+                                    no. 4344"
+2,south africa vs india,"Virat
+                                        Kohli",Out,51,63,3,0,80.95,"ODI
+                                    no. 4344"
+3,south africa vs india,"Rishabh
+                                        Pant �",Out,16,22,1,0,72.72,"ODI
+                                    no. 4344"
+4,south africa vs india,"Shreyas
+                                        Iyer",Out,17,17,1,0,100.00,"ODI
+                                    no. 4344"
+5,south africa vs india,"Venkatesh
+                                        Iyer",Out,2,7,0,0,28.57,"ODI
+                                    no. 4344"
+6,south africa vs india,"Ravichandran
+                                        Ashwin",Out,7,13,0,0,53.84,"ODI
+                                    no. 4344"
+7,south africa vs india,"Shardul
+                                        Thakur",Not Out,50,43,5,1,116.27,"ODI
+                                    no. 4344"
+8,south africa vs india,"Bhuvneshwar
+                                        Kumar",Out,4,11,0,0,36.36,"ODI
+                                    no. 4344"
+9,south africa vs india,"Jasprit
+                                        Bumrah",Not Out,14,23,1,0,60.86,"ODI
+                                    no. 4344"
+0,south africa vs india,KL Rahul (c),Out,55,79,4,0,69.62,ODI no. 4346
+1,south africa vs india,Shikhar Dhawan,Out,29,38,5,0,76.31,ODI no. 4346
+2,south africa vs india,Virat Kohli,Out,0,5,0,0,0.00,ODI no. 4346
+3,south africa vs india,Rishabh Pant,Out,85,71,10,2,119.71,ODI no. 4346
+4,south africa vs india,Shreyas Iyer,Out,11,14,0,0,78.57,ODI no. 4346
+5,south africa vs india,Venkatesh Iyer,Out,22,33,0,1,66.66,ODI no. 4346
+6,south africa vs india,Shardul Thakur,Not Out,40,38,3,1,105.26,ODI no. 4346
+7,south africa vs india,Ravichandran Ashwin,Not Out,25,24,1,1,104.16,ODI no. 4346
+0,south africa vs india,KL Rahul (c),Out,9,10,2,0,90.00,ODI no. 4349
+1,south africa vs india,Shikhar Dhawan,Out,61,73,5,1,83.56,ODI no. 4349
+2,south africa vs india,Virat Kohli,Out,65,84,5,0,77.38,ODI no. 4349
+3,south africa vs india,Rishabh Pant,Out,0,1,0,0,0.00,ODI no. 4349
+4,south africa vs india,Shreyas Iyer,Out,26,34,2,0,76.47,ODI no. 4349
+5,south africa vs india,Suryakumar Yadav,Out,39,32,4,1,121.87,ODI no. 4349
+6,south africa vs india,Deepak Chahar,Out,54,34,5,2,158.82,ODI no. 4349
+7,south africa vs india,Jayant Yadav,Out,2,6,0,0,33.33,ODI no. 4349
+8,south africa vs india,Jasprit Bumrah,Out,12,15,2,0,80.00,ODI no. 4349
+9,south africa vs india,Yuzvendra Chahal,Out,2,6,0,0,33.33,ODI no. 4349
+10,south africa vs india,Prasidh Krishna,Not Out,2,3,0,0,66.66,ODI no. 4349
+0,india vs west indies,Rohit Sharma (c),Out,60,51,10,1,117.64,ODI no. 4353
+1,india vs west indies,Ishan Kishan,Out,28,36,2,1,77.77,ODI no. 4353
+2,india vs west indies,Virat Kohli,Out,8,4,2,0,200.00,ODI no. 4353
+3,india vs west indies,Rishabh Pant,Out,11,9,2,0,122.22,ODI no. 4353
+4,india vs west indies,Suryakumar Yadav,Not Out,34,36,5,0,94.44,ODI no. 4353
+5,india vs west indies,Deepak Hooda,Not Out,26,32,2,0,81.25,ODI no. 4353
+0,india vs west indies,Rohit Sharma (c),Out,5,8,0,0,62.50,ODI no. 4355
+1,india vs west indies,Rishabh Pant,Out,18,34,3,0,52.94,ODI no. 4355
+2,india vs west indies,Virat Kohli,Out,18,30,3,0,60.00,ODI no. 4355
+3,india vs west indies,KL Rahul,Out,49,48,4,2,102.08,ODI no. 4355
+4,india vs west indies,Suryakumar Yadav,Out,64,83,5,0,77.10,ODI no. 4355
+5,india vs west indies,Washington Sundar,Out,24,41,1,0,58.53,ODI no. 4355
+6,india vs west indies,Deepak Hooda,Out,29,25,2,0,116.00,ODI no. 4355
+7,india vs west indies,Shardul Thakur,Out,8,15,1,0,53.33,ODI no. 4355
+8,india vs west indies,Mohammed Siraj,Out,3,5,0,0,60.00,ODI no. 4355
+9,india vs west indies,Yuzvendra Chahal,Not Out,11,10,1,0,110.00,ODI no. 4355
+10,india vs west indies,Prasidh Krishna,Not Out,0,3,0,0,0.00,ODI no. 4355
+0,india vs west indies,Rohit Sharma (c),Out,13,15,3,0,86.66,ODI no. 4356
+1,india vs west indies,Shikhar Dhawan,Out,10,26,0,1,38.46,ODI no. 4356
+2,india vs west indies,Virat Kohli,Out,0,2,0,0,0.00,ODI no. 4356
+3,india vs west indies,Shreyas Iyer,Out,80,111,9,0,72.07,ODI no. 4356
+4,india vs west indies,Rishabh Pant,Out,56,54,6,1,103.70,ODI no. 4356
+5,india vs west indies,Suryakumar Yadav,Out,6,7,1,0,85.71,ODI no. 4356
+6,india vs west indies,Washington Sundar,Out,33,34,2,1,97.05,ODI no. 4356
+7,india vs west indies,Deepak Chahar,Out,38,38,4,2,100.00,ODI no. 4356
+8,india vs west indies,Kuldeep Yadav,Out,5,8,0,0,62.50,ODI no. 4356
+9,india vs west indies,Mohammed Siraj,Out,4,6,1,0,66.66,ODI no. 4356
+10,india vs west indies,Prasidh Krishna,Not Out,0,0,0,0,-,ODI no. 4356
+0,england vs india,Rohit Sharma (c),Not Out,76,58,7,5,131.03,ODI no. 4424
+1,england vs india,Shikhar Dhawan,Not Out,31,54,4,0,57.40,ODI no. 4424
+0,england vs india,Rohit Sharma (c),Out,0,10,0,0,0.00,ODI no. 4428
+1,england vs india,Shikhar Dhawan,Out,9,26,1,0,34.61,ODI no. 4428
+2,england vs india,Virat Kohli,Out,16,25,3,0,64.00,ODI no. 4428
+3,england vs india,Rishabh Pant,Out,0,5,0,0,0.00,ODI no. 4428
+4,england vs india,Suryakumar Yadav,Out,27,29,1,1,93.10,ODI no. 4428
+5,england vs india,Hardik Pandya,Out,29,44,2,0,65.90,ODI no. 4428
+6,england vs india,Ravindra Jadeja,Out,29,44,1,1,65.90,ODI no. 4428
+7,england vs india,Mohammed Shami,Out,23,28,2,1,82.14,ODI no. 4428
+8,england vs india,Jasprit Bumrah,Not Out,2,6,0,0,33.33,ODI no. 4428
+9,england vs india,Yuzvendra Chahal,Out,3,13,0,0,23.07,ODI no. 4428
+10,england vs india,Prasidh Krishna,Out,0,3,0,0,0.00,ODI no. 4428
+0,england vs india,Rohit Sharma (c),Out,17,17,4,0,100.00,ODI no. 4433
+1,england vs india,Shikhar Dhawan,Out,1,3,0,0,33.33,ODI no. 4433
+2,england vs india,Virat Kohli,Out,17,22,3,0,77.27,ODI no. 4433
+3,england vs india,Rishabh Pant,Not Out,125,113,16,2,110.61,ODI no. 4433
+4,england vs india,Suryakumar Yadav,Out,16,28,1,0,57.14,ODI no. 4433
+5,england vs india,Hardik Pandya,Out,71,55,10,0,129.09,ODI no. 4433
+6,england vs india,Ravindra Jadeja,Not Out,7,15,0,0,46.66,ODI no. 4433
+0,west indies vs india,Shikhar Dhawan (c),Out,97,99,10,3,97.97,ODI no. 4436
+1,west indies vs india,Shubman Gill,Out,64,53,6,2,120.75,ODI no. 4436
+2,west indies vs india,Shreyas Iyer,Out,54,57,5,2,94.73,ODI no. 4436
+3,west indies vs india,Suryakumar Yadav,Out,13,14,2,0,92.85,ODI no. 4436
+4,west indies vs india,Sanju Samson,Out,12,18,0,1,66.66,ODI no. 4436
+5,west indies vs india,Deepak Hooda,Out,27,32,1,1,84.37,ODI no. 4436
+6,west indies vs india,Axar Patel,Out,21,21,1,1,100.00,ODI no. 4436
+7,west indies vs india,Shardul Thakur,Not Out,7,5,1,0,140.00,ODI no. 4436
+8,west indies vs india,Mohammed Siraj,Not Out,1,2,0,0,50.00,ODI no. 4436
+0,west indies vs india,Shikhar Dhawan (c),Out,13,31,0,0,41.93,ODI no. 4438
+1,west indies vs india,Shubman Gill,Out,43,49,5,0,87.75,ODI no. 4438
+2,west indies vs india,Shreyas Iyer,Out,63,71,4,1,88.73,ODI no. 4438
+3,west indies vs india,Suryakumar Yadav,Out,9,8,0,1,112.50,ODI no. 4438
+4,west indies vs india,Sanju Samson,Out,54,51,3,3,105.88,ODI no. 4438
+5,west indies vs india,Deepak Hooda,Out,33,36,2,0,91.66,ODI no. 4438
+6,west indies vs india,Axar Patel,Not Out,64,35,3,5,182.85,ODI no. 4438
+7,west indies vs india,Shardul Thakur,Out,3,6,0,0,50.00,ODI no. 4438
+8,west indies vs india,Avesh Khan,Out,10,12,2,0,83.33,ODI no. 4438
+9,west indies vs india,Mohammed Siraj,Not Out,1,1,0,0,100.00,ODI no. 4438
+0,west indies vs india,Shikhar Dhawan (c),Out,58,74,7,0,78.37,ODI no. 4439
+1,west indies vs india,Shubman Gill,Not Out,98,98,7,2,100.00,ODI no. 4439
+2,west indies vs india,Shreyas Iyer,Out,44,34,4,1,129.41,ODI no. 4439
+3,west indies vs india,Suryakumar Yadav,Out,8,6,1,0,133.33,ODI no. 4439
+4,west indies vs india,Sanju Samson,Not Out,6,7,0,0,85.71,ODI no. 4439
+0,zimbabwe vs india,Shikhar Dhawan,Not Out,81,113,9,0,71.68,ODI no. 4451
+1,zimbabwe vs india,Shubman Gill,Not Out,82,72,10,1,113.88,ODI no. 4451
+0,zimbabwe vs india,Shikhar Dhawan,Out,33,21,4,0,157.14,ODI no. 4454
+1,zimbabwe vs india,KL Rahul (c),Out,1,5,0,0,20.00,ODI no. 4454
+2,zimbabwe vs india,Shubman Gill,Out,33,34,6,0,97.05,ODI no. 4454
+3,zimbabwe vs india,Ishan Kishan,Out,6,13,0,0,46.15,ODI no. 4454
+4,zimbabwe vs india,Deepak Hooda,Out,25,36,3,0,69.44,ODI no. 4454
+5,zimbabwe vs india,Sanju Samson,Not Out,43,39,3,4,110.25,ODI no. 4454
+6,zimbabwe vs india,Axar Patel,Not Out,6,7,1,0,85.71,ODI no. 4454
+0,zimbabwe vs india,Shikhar Dhawan,Out,40,68,5,0,58.82,ODI no. 4457
+1,zimbabwe vs india,KL Rahul (c),Out,30,46,1,1,65.21,ODI no. 4457
+2,zimbabwe vs india,Shubman Gill,Out,130,97,15,1,134.02,ODI no. 4457
+3,zimbabwe vs india,Ishan Kishan,Out,50,61,6,0,81.96,ODI no. 4457
+4,zimbabwe vs india,Deepak Hooda,Out,1,3,0,0,33.33,ODI no. 4457
+5,zimbabwe vs india,Sanju Samson,Out,15,13,0,2,115.38,ODI no. 4457
+6,zimbabwe vs india,Axar Patel,Out,1,4,0,0,25.00,ODI no. 4457
+7,zimbabwe vs india,Shardul Thakur,Out,9,6,2,0,150.00,ODI no. 4457
+8,zimbabwe vs india,Deepak Chahar,Not Out,1,1,0,0,100.00,ODI no. 4457
+9,zimbabwe vs india,Kuldeep Yadav,Not Out,2,2,0,0,100.00,ODI no. 4457
+0,india vs south africa,Shikhar Dhawan (c),Out,4,16,0,0,25.00,ODI no. 4470
+1,india vs south africa,Shubman Gill,Out,3,7,0,0,42.85,ODI no. 4470
+2,india vs south africa,Ruturaj Gaikwad,Out,19,42,1,0,45.23,ODI no. 4470
+3,india vs south africa,Ishan Kishan,Out,20,37,3,0,54.05,ODI no. 4470
+4,india vs south africa,Shreyas Iyer,Out,50,37,8,0,135.13,ODI no. 4470
+5,india vs south africa,Sanju Samson,Not Out,86,63,9,3,136.50,ODI no. 4470
+6,india vs south africa,Shardul Thakur,Out,33,31,5,0,106.45,ODI no. 4470
+7,india vs south africa,Kuldeep Yadav,Out,0,1,0,0,0.00,ODI no. 4470
+8,india vs south africa,Avesh Khan,Out,3,6,0,0,50.00,ODI no. 4470
+9,india vs south africa,Ravi Bishnoi,Not Out,4,2,1,0,200.00,ODI no. 4470
+0,india vs south africa,Shikhar Dhawan (c),Out,13,20,0,1,65.00,ODI no. 4471
+1,india vs south africa,Shubman Gill,Out,28,26,5,0,107.69,ODI no. 4471
+2,india vs south africa,Ishan Kishan,Out,93,84,4,7,110.71,ODI no. 4471
+3,india vs south africa,Shreyas Iyer,Not Out,113,111,15,0,101.80,ODI no. 4471
+4,india vs south africa,Sanju Samson,Not Out,30,36,1,1,83.33,ODI no. 4471
+0,india vs south africa,Shikhar Dhawan (c),Out,8,14,1,0,57.14,ODI no. 4472
+1,india vs south africa,Shubman Gill,Out,49,57,8,0,85.96,ODI no. 4472
+2,india vs south africa,Ishan Kishan,Out,10,18,2,0,55.55,ODI no. 4472
+3,india vs south africa,Shreyas Iyer,Not Out,28,23,3,2,121.73,ODI no. 4472
+4,india vs south africa,Sanju Samson,Not Out,2,4,0,0,50.00,ODI no. 4472
+0,new zealand vs india,Shikhar Dhawan (c),Out,72,77,13,0,93.50,ODI no. 4483
+1,new zealand vs india,Shubman Gill,Out,50,65,1,3,76.92,ODI no. 4483
+2,new zealand vs india,Shreyas Iyer,Out,80,76,4,4,105.26,ODI no. 4483
+3,new zealand vs india,Rishabh Pant,Out,15,23,2,0,65.21,ODI no. 4483
+4,new zealand vs india,Suryakumar Yadav,Out,4,3,1,0,133.33,ODI no. 4483
+5,new zealand vs india,Sanju Samson,Out,36,38,4,0,94.73,ODI no. 4483
+6,new zealand vs india,Washington Sundar,Not Out,37,16,3,3,231.25,ODI no. 4483
+7,new zealand vs india,Shardul Thakur,Out,1,2,0,0,50.00,ODI no. 4483
+0,new zealand vs india,Shikhar Dhawan (c),Out,3,10,0,0,30.00,ODI no. 4487
+1,new zealand vs india,Shubman Gill,Not Out,45,42,4,1,107.14,ODI no. 4487
+2,new zealand vs india,Suryakumar Yadav,Not Out,34,25,2,3,136.00,ODI no. 4487
+0,new zealand vs india,Shikhar Dhawan (c),Out,28,45,3,1,62.22,ODI no. 4489
+1,new zealand vs india,Shubman Gill,Out,13,22,2,0,59.09,ODI no. 4489
+2,new zealand vs india,Shreyas Iyer,Out,49,59,8,0,83.05,ODI no. 4489
+3,new zealand vs india,Rishabh Pant,Out,10,16,2,0,62.50,ODI no. 4489
+4,new zealand vs india,Suryakumar Yadav,Out,6,10,0,0,60.00,ODI no. 4489
+5,new zealand vs india,Deepak Hooda,Out,12,25,0,0,48.00,ODI no. 4489
+6,new zealand vs india,Washington Sundar,Out,51,64,5,1,79.68,ODI no. 4489
+7,new zealand vs india,Deepak Chahar,Out,12,9,0,2,133.33,ODI no. 4489
+8,new zealand vs india,Yuzvendra Chahal,Out,8,22,0,0,36.36,ODI no. 4489
+9,new zealand vs india,Arshdeep Singh,Out,9,9,0,1,100.00,ODI no. 4489
+10,new zealand vs india,Umran Malik,Not Out,0,4,0,0,0.00,ODI no. 4489
+0,bangladesh vs india,Rohit Sharma (c),Out,27,31,4,1,87.09,ODI no. 4493
+1,bangladesh vs india,Shikhar Dhawan,Out,7,17,1,0,41.17,ODI no. 4493
+2,bangladesh vs india,Virat Kohli,Out,9,15,1,0,60.00,ODI no. 4493
+3,bangladesh vs india,Shreyas Iyer,Out,24,39,2,0,61.53,ODI no. 4493
+4,bangladesh vs india,KL Rahul,Out,73,70,5,4,104.28,ODI no. 4493
+5,bangladesh vs india,Washington Sundar,Out,19,43,0,0,44.18,ODI no. 4493
+6,bangladesh vs india,Shahbaz Ahmed,Out,0,4,0,0,0.00,ODI no. 4493
+7,bangladesh vs india,Shardul Thakur,Out,2,3,0,0,66.66,ODI no. 4493
+8,bangladesh vs india,Deepak Chahar,Out,0,3,0,0,0.00,ODI no. 4493
+9,bangladesh vs india,Mohammed Siraj,Out,9,20,1,0,45.00,ODI no. 4493
+10,bangladesh vs india,Kuldeep Sen,Not Out,2,4,0,0,50.00,ODI no. 4493
+0,bangladesh vs india,Virat Kohli,Out,5,6,1,0,83.33,ODI no. 4496
+1,bangladesh vs india,Shikhar Dhawan,Out,8,10,1,0,80.00,ODI no. 4496
+2,bangladesh vs india,Shreyas Iyer,Out,82,102,6,3,80.39,ODI no. 4496
+3,bangladesh vs india,Washington Sundar,Out,11,19,1,0,57.89,ODI no. 4496
+4,bangladesh vs india,KL Rahul,Out,14,28,0,0,50.00,ODI no. 4496
+5,bangladesh vs india,Axar Patel,Out,56,56,2,3,100.00,ODI no. 4496
+6,bangladesh vs india,Shardul Thakur,Out,7,23,0,0,30.43,ODI no. 4496
+7,bangladesh vs india,Deepak Chahar,Out,11,18,0,1,61.11,ODI no. 4496
+8,bangladesh vs india,Rohit Sharma (c),Not Out,51,28,3,5,182.14,ODI no. 4496
+9,bangladesh vs india,Mohammed Siraj,Out,2,12,0,0,16.66,ODI no. 4496
+10,bangladesh vs india,Umran Malik,Not Out,0,0,0,0,-,ODI no. 4496
+0,bangladesh vs india,Shikhar Dhawan,Out,3,8,0,0,37.50,ODI no. 4499
+1,bangladesh vs india,Ishan Kishan,Out,210,131,24,10,160.30,ODI no. 4499
+2,bangladesh vs india,Virat Kohli,Out,113,91,11,2,124.17,ODI no. 4499
+3,bangladesh vs india,Shreyas Iyer,Out,3,6,0,0,50.00,ODI no. 4499
+4,bangladesh vs india,KL Rahul (c),Out,8,10,1,0,80.00,ODI no. 4499
+5,bangladesh vs india,Washington Sundar,Out,37,27,4,1,137.03,ODI no. 4499
+6,bangladesh vs india,Axar Patel,Out,20,17,1,1,117.64,ODI no. 4499
+7,bangladesh vs india,Shardul Thakur,Out,3,5,0,0,60.00,ODI no. 4499
+8,bangladesh vs india,Kuldeep Yadav,Not Out,3,3,0,0,100.00,ODI no. 4499
+9,bangladesh vs india,Mohammed Siraj,Not Out,0,2,0,0,0.00,ODI no. 4499
+0,india vs sri lanka,Rohit Sharma (c),Out,83,67,9,3,123.88,ODI no. 4501
+1,india vs sri lanka,Shubman Gill,Out,70,60,11,0,116.66,ODI no. 4501
+2,india vs sri lanka,Virat Kohli,Out,113,87,12,1,129.88,ODI no. 4501
+3,india vs sri lanka,Shreyas Iyer,Out,28,24,3,1,116.66,ODI no. 4501
+4,india vs sri lanka,KL Rahul,Out,39,29,4,1,134.48,ODI no. 4501
+5,india vs sri lanka,Hardik Pandya,Out,14,12,0,1,116.66,ODI no. 4501
+6,india vs sri lanka,Axar Patel,Out,9,9,0,0,100.00,ODI no. 4501
+7,india vs sri lanka,Mohammed Shami,Not Out,4,4,0,0,100.00,ODI no. 4501
+8,india vs sri lanka,Mohammed Siraj,Not Out,7,8,0,0,87.50,ODI no. 4501
+0,india vs sri lanka,Rohit Sharma (c),Out,17,21,2,1,80.95,ODI no. 4503
+1,india vs sri lanka,Shubman Gill,Out,21,12,5,0,175.00,ODI no. 4503
+2,india vs sri lanka,Virat Kohli,Out,4,9,1,0,44.44,ODI no. 4503
+3,india vs sri lanka,Shreyas Iyer,Out,28,33,5,0,84.84,ODI no. 4503
+4,india vs sri lanka,KL Rahul,Not Out,64,103,6,0,62.13,ODI no. 4503
+5,india vs sri lanka,Hardik Pandya,Out,36,53,4,0,67.92,ODI no. 4503
+6,india vs sri lanka,Axar Patel,Out,21,21,1,1,100.00,ODI no. 4503
+7,india vs sri lanka,Kuldeep Yadav,Not Out,10,10,2,0,100.00,ODI no. 4503
+0,india vs sri lanka,Rohit Sharma (c),Out,42,49,2,3,85.71,ODI no. 4505
+1,india vs sri lanka,Shubman Gill,Out,116,97,14,2,119.58,ODI no. 4505
+2,india vs sri lanka,Virat Kohli,Not Out,166,110,13,8,150.90,ODI no. 4505
+3,india vs sri lanka,Shreyas Iyer,Out,38,32,2,1,118.75,ODI no. 4505
+4,india vs sri lanka,KL Rahul,Out,7,6,1,0,116.66,ODI no. 4505
+5,india vs sri lanka,Suryakumar Yadav,Out,4,4,0,0,100.00,ODI no. 4505
+6,india vs sri lanka,Axar Patel,Not Out,2,2,0,0,100.00,ODI no. 4505
+0,india vs new zealand,Rohit Sharma (c),Out,34,38,4,2,89.47,ODI no. 4507
+1,india vs new zealand,Shubman Gill,Out,208,149,19,9,139.59,ODI no. 4507
+2,india vs new zealand,Virat Kohli,Out,8,10,1,0,80.00,ODI no. 4507
+3,india vs new zealand,Ishan Kishan,Out,5,14,0,0,35.71,ODI no. 4507
+4,india vs new zealand,Suryakumar Yadav,Out,31,26,4,0,119.23,ODI no. 4507
+5,india vs new zealand,Hardik Pandya,Out,28,38,3,0,73.68,ODI no. 4507
+6,india vs new zealand,Washington Sundar,Out,12,14,0,0,85.71,ODI no. 4507
+7,india vs new zealand,Shardul Thakur,Out,3,3,0,0,100.00,ODI no. 4507
+8,india vs new zealand,Kuldeep Yadav,Not Out,5,6,0,0,83.33,ODI no. 4507
+9,india vs new zealand,Mohammed Shami,Not Out,2,2,0,0,100.00,ODI no. 4507
+0,india vs new zealand,Rohit Sharma (c),Out,51,50,7,2,102.00,ODI no. 4509
+1,india vs new zealand,Shubman Gill,Not Out,40,53,6,0,75.47,ODI no. 4509
+2,india vs new zealand,Virat Kohli,Out,11,9,2,0,122.22,ODI no. 4509
+3,india vs new zealand,Ishan Kishan,Not Out,8,9,2,0,88.88,ODI no. 4509
+0,india vs new zealand,Rohit Sharma (c),Out,101,85,9,6,118.82,ODI no. 4511
+1,india vs new zealand,Shubman Gill,Out,112,78,13,5,143.58,ODI no. 4511
+2,india vs new zealand,Virat Kohli,Out,36,27,3,1,133.33,ODI no. 4511
+3,india vs new zealand,Ishan Kishan,Out,17,24,1,1,70.83,ODI no. 4511
+4,india vs new zealand,Suryakumar Yadav,Out,14,9,0,2,155.55,ODI no. 4511
+5,india vs new zealand,Hardik Pandya,Out,54,38,3,3,142.10,ODI no. 4511
+6,india vs new zealand,Washington Sundar,Out,9,14,1,0,64.28,ODI no. 4511
+7,india vs new zealand,Shardul Thakur,Out,25,17,3,1,147.05,ODI no. 4511
+8,india vs new zealand,Kuldeep Yadav,Out,3,3,0,0,100.00,ODI no. 4511
+9,india vs new zealand,Umran Malik,Not Out,2,5,0,0,40.00,ODI no. 4511
+0,india vs australia,Ishan Kishan,Out,3,8,0,0,37.50,ODI no. 4538
+1,india vs australia,Shubman Gill,Out,20,31,3,0,64.51,ODI no. 4538
+2,india vs australia,Virat Kohli,Out,4,9,1,0,44.44,ODI no. 4538
+3,india vs australia,Suryakumar Yadav,Out,0,1,0,0,0.00,ODI no. 4538
+4,india vs australia,KL Rahul,Not Out,75,91,7,1,82.41,ODI no. 4538
+5,india vs australia,Hardik Pandya (c),Out,25,31,3,1,80.64,ODI no. 4538
+6,india vs australia,Ravindra Jadeja,Not Out,45,69,5,0,65.21,ODI no. 4538
+0,india vs australia,Rohit Sharma (c),Out,13,15,2,0,86.66,ODI no. 4541
+1,india vs australia,Shubman Gill,Out,0,2,0,0,0.00,ODI no. 4541
+2,india vs australia,Virat Kohli,Out,31,35,4,0,88.57,ODI no. 4541
+3,india vs australia,Suryakumar Yadav,Out,0,1,0,0,0.00,ODI no. 4541
+4,india vs australia,KL Rahul,Out,9,12,1,0,75.00,ODI no. 4541
+5,india vs australia,Hardik Pandya,Out,1,3,0,0,33.33,ODI no. 4541
+6,india vs australia,Ravindra Jadeja,Out,16,39,1,0,41.02,ODI no. 4541
+7,india vs australia,Axar Patel,Not Out,29,29,1,2,100.00,ODI no. 4541
+8,india vs australia,Kuldeep Yadav,Out,4,17,0,0,23.52,ODI no. 4541
+9,india vs australia,Mohammed Shami,Out,0,1,0,0,0.00,ODI no. 4541
+10,india vs australia,Mohammed Siraj,Out,0,3,0,0,0.00,ODI no. 4541
+0,india vs australia,Rohit Sharma (c),Out,30,17,2,2,176.47,ODI no. 4545
+1,india vs australia,Shubman Gill,Out,37,49,4,1,75.51,ODI no. 4545
+2,india vs australia,Virat Kohli,Out,54,72,2,1,75.00,ODI no. 4545
+3,india vs australia,KL Rahul,Out,32,50,2,1,64.00,ODI no. 4545
+4,india vs australia,Axar Patel,Out,2,4,0,0,50.00,ODI no. 4545
+5,india vs australia,Hardik Pandya,Out,40,40,3,1,100.00,ODI no. 4545
+6,india vs australia,Suryakumar Yadav,Out,0,1,0,0,0.00,ODI no. 4545
+7,india vs australia,Ravindra Jadeja,Out,18,33,1,0,54.54,ODI no. 4545
+8,india vs australia,Kuldeep Yadav,Out,6,15,0,0,40.00,ODI no. 4545
+9,india vs australia,Mohammed Shami,Out,14,10,1,1,140.00,ODI no. 4545
+10,india vs australia,Mohammed Siraj,Not Out,3,5,0,0,60.00,ODI no. 4545
+0,west indies vs india,Ishan Kishan,Out,52,46,7,1,113.04,ODI no. 4622
+1,west indies vs india,Shubman Gill,Out,7,16,1,0,43.75,ODI no. 4622
+2,west indies vs india,Suryakumar Yadav,Out,19,25,3,1,76.00,ODI no. 4622
+3,west indies vs india,Hardik Pandya,Out,5,7,0,0,71.42,ODI no. 4622
+4,west indies vs india,Ravindra Jadeja,Not Out,16,21,1,0,76.19,ODI no. 4622
+5,west indies vs india,Shardul Thakur,Out,1,4,0,0,25.00,ODI no. 4622
+6,west indies vs india,Rohit Sharma (c),Not Out,12,19,2,0,63.15,ODI no. 4622
+0,west indies vs india,Ishan Kishan,Out,55,55,6,1,100.00,ODI no. 4623
+1,west indies vs india,Shubman Gill,Out,34,49,5,0,69.38,ODI no. 4623
+2,west indies vs india,Sanju Samson,Out,9,19,0,0,47.36,ODI no. 4623
+3,west indies vs india,Axar Patel,Out,1,8,0,0,12.50,ODI no. 4623
+4,west indies vs india,Hardik Pandya (c),Out,7,14,0,0,50.00,ODI no. 4623
+5,west indies vs india,Suryakumar Yadav,Out,24,25,3,0,96.00,ODI no. 4623
+6,west indies vs india,Ravindra Jadeja,Out,10,21,0,0,47.61,ODI no. 4623
+7,west indies vs india,Shardul Thakur,Out,16,22,2,0,72.72,ODI no. 4623
+8,west indies vs india,Kuldeep Yadav,Not Out,8,23,1,0,34.78,ODI no. 4623
+9,west indies vs india,Umran Malik,Out,0,2,0,0,0.00,ODI no. 4623
+10,west indies vs india,Mukesh Kumar,Out,6,7,1,0,85.71,ODI no. 4623
+0,west indies vs india,Ishan Kishan,Out,77,64,8,3,120.31,ODI no. 4624
+1,west indies vs india,Shubman Gill,Out,85,92,11,0,92.39,ODI no. 4624
+2,west indies vs india,Ruturaj Gaikwad,Out,8,14,1,0,57.14,ODI no. 4624
+3,west indies vs india,Sanju Samson,Out,51,41,2,4,124.39,ODI no. 4624
+4,west indies vs india,Hardik Pandya (c),Not Out,70,52,4,5,134.61,ODI no. 4624
+5,west indies vs india,Suryakumar Yadav,Out,35,30,2,2,116.66,ODI no. 4624
+6,west indies vs india,Ravindra Jadeja,Not Out,8,7,0,0,114.28,ODI no. 4624
